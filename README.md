@@ -14,9 +14,10 @@ The project combines computer architecture, digital logic, embedded C, memory-ma
 
 [![Space Shooters Gameplay Demo](media/title-screen.jpg)](https://youtube.com/shorts/w4128BA9TOE)
 
-**[▶ Watch the full Space Shooters gameplay demo](https://youtube.com/shorts/w4128BA9TOE)**
+**[▶ Watch the gameplay demo](https://youtube.com/shorts/w4128BA9TOE)**
 
-The fighter is controlled by physically tilting the DE10-Lite board using its onboard ADXL345 accelerometer. Gameplay logic runs as bare-metal C on the custom RISC-V processor, while FPGA hardware handles VGA rendering and peripheral interfacing.
+Tilt the DE10-Lite to steer, fire with `KEY1`, and activate Overdrive with `KEY0`. The custom RISC-V CPU runs the game logic in bare-metal C while FPGA hardware handles sensor input and VGA rendering.
+
 ---
 
 ## System Highlights
