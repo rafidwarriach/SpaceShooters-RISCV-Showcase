@@ -10,12 +10,6 @@ The project combines computer architecture, digital logic, embedded C, memory-ma
 
 ---
 
-## Demo
-
-### Title Screen
-
-![Space Shooters title screen](media/title-screen.jpg)
-
 ## Gameplay Demo
 
 [![Space Shooters Gameplay Demo](media/title-screen.jpg)](https://youtube.com/shorts/w4128BA9TOE)
